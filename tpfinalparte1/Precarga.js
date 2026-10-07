@@ -7,10 +7,10 @@ function Precarga(){
   Bueno = loadImage("data/Final-bueno.png");
   Maray = loadImage("data/Unido-al-maray.jpg");
   Abandonar = loadImage("data/Abandona-seeker-y-tiburon.png");
-  Calamar = loadImage("data/Calamar-gigante.");
+  //Calamar = loadImage("data/Calamar-gigante.");
   Cofres = loadImage("data/Carga-de-cofres.png");
   ExplorarCueva = loadImage("data/Explora-cueva.png");
-  DejasMaray = loadImage("data/Suelta-seeker-del-maray.");
+  //DejasMaray = loadImage("data/Suelta-seeker-del-maray.");
   Traicion = loadImage("data/Te-empujan-del-barco.png");
   Vuelta = loadImage("data/Vuelta-a-maray-y-fama.png");
   
