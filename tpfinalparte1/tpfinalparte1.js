@@ -1,5 +1,5 @@
 function preload(){
-  //Precarga();
+  Precarga();
 }
 
 function setup() {
