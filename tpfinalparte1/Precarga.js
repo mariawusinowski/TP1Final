@@ -17,8 +17,14 @@ function Precarga(){
   
 }
 
-//Para cargar la animación del inicio. Dios me salve.
+function Boton(){ 
+  stroke(0);
+  fill(valor);
+  circle(botonposX,botonposY,80);
+}
 
+//Para cargar la animación del inicio.
+/*
 function cargarAccion(nombre, cantidad) {
   let frames = [];
   for (let i = 1; i <= cantidad; i++) {
@@ -31,3 +37,4 @@ function elegirFrame(frames, velocidadAnimacion) {
   let indice = floor(frameCount / velocidadAnimacion) % frames.length;
   return frames[indice];
 }
+*/

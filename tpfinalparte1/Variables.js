@@ -1,5 +1,11 @@
 //Pura variable jojojo
 
+//Control de posición de texto
+let posXtexto = 50;
+
+//Para saber en que pantalla estamos
+let pantallaActual = 0;
+
 //Pestañas de la narrativa
 let Propuesta;
 let Malo;
@@ -14,5 +20,13 @@ let DejasMaray;
 let Traicion;
 let Vuelta;
 
-
 //Animacion credito
+
+let fondoY = 0;
+//let limitefondo = 400;
+let contador = 0;
+
+//Botón
+let botonposY = 385;
+let botonposX = 750;
+let valor = 255;
