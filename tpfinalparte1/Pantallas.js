@@ -1,4 +1,4 @@
-function Pantallas(fondo, texto){
+/*function Pantallas(fondo, texto){
   image(fondo,0,0,800,450);
   fill(169,213,255,80);
   rect(30,320,690,430,20);
@@ -7,9 +7,9 @@ function Pantallas(fondo, texto){
   textSize(13);
   stroke(0);
   text(texto,posXtexto,340,650)
- // text('Eres un renombrado explorador marino a pesar de tu poca experiencia en el ámbito laboral, pero un día al terminar una expedición de tres meses una agencia privada se te acerca con una propuesta… Interesante, si crees que tus grandes capacidades pueden ayudarte a encontrar la ciudad perdida de Atlantis. Te encuentras perplejo/a por la propuesta, dado que muchos en tu ámbito se han burlado de la posibilidad de la existencia del Atlantis, pero en el fondo tú crees en esa pequeña posibilidad; esa esperanza de que hay algo en el mar esperando a ser descubierto.',posXtexto,340,650);
+ //text('Eres un renombrado explorador marino a pesar de tu poca experiencia en el ámbito laboral, pero un día al terminar una expedición de tres meses una agencia privada se te acerca con una propuesta… Interesante, si crees que tus grandes capacidades pueden ayudarte a encontrar la ciudad perdida de Atlantis. Te encuentras perplejo/a por la propuesta, dado que muchos en tu ámbito se han burlado de la posibilidad de la existencia del Atlantis, pero en el fondo tú crees en esa pequeña posibilidad; esa esperanza de que hay algo en el mar esperando a ser descubierto.',posXtexto,340,650);
 
-  //text('Accedes a la misión con gusto y emoción, y pronto te embarcas en las profundidades del mar Atlántico, sujeto/a al Maray mediante un cable, la embarcación que se encargará de tu seguridad. Aunque por petición de la compañía llevas puesto un traje especial que te permitirá explorar y caminar en las profundidades del mar sin mayor dificultad.',posXtexto,340,650);
+ //text('Accedes a la misión con gusto y emoción, y pronto te embarcas en las profundidades del mar Atlántico, sujeto/a al Maray mediante un cable, la embarcación que se encargará de tu seguridad. Aunque por petición de la compañía llevas puesto un traje especial que te permitirá explorar y caminar en las profundidades del mar sin mayor dificultad.',posXtexto,340,650);
 }
 
  /*

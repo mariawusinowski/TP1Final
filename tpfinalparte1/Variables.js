@@ -23,10 +23,14 @@ let Vuelta;
 //Animacion credito
 
 let fondoY = 0;
-//let limitefondo = 400;
-let contador = 0;
+let opacidad = 0;
+let fase = 1;
+let tiempoActual = 0;
 
 //Botón
 let botonposY = 385;
 let botonposX = 750;
 let valor = 255;
+
+//Parámetros 
+let textos = ["TEXTO 1", "TEXTO 2"]
