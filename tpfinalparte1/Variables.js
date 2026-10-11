@@ -5,6 +5,10 @@ let posXtexto = 50;
 
 //Para saber en que pantalla estamos
 let pantallaActual = 0;
+let pantallaAnterior = 0;
+
+//Para pasar los textos
+let parrafo = 0;
 
 //Pestañas de la narrativa
 let Propuesta;
@@ -20,7 +24,7 @@ let DejasMaray;
 let Traicion;
 let Vuelta;
 
-//Animacion credito
+//Animacion créditos
 
 let fondoY = 0;
 let opacidad = 0;
@@ -33,4 +37,5 @@ let botonposX = 750;
 let valor = 255;
 
 //Parámetros 
-let textos = ["TEXTO 1", "TEXTO 2"]
+let textos = []
+let fondos = []

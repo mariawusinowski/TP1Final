@@ -17,24 +17,9 @@ function Precarga(){
   
 }
 
+//Inicia el juego
 function Boton(){ 
   stroke(0);
   fill(valor);
   circle(botonposX,botonposY,80);
 }
-
-//Para cargar la animación del inicio.
-/*
-function cargarAccion(nombre, cantidad) {
-  let frames = [];
-  for (let i = 1; i <= cantidad; i++) {
-    frames.push(loadImage('data/' + nombre + '_' + i + '.png'));
-  }
-  return frames;
-}
-
-function elegirFrame(frames, velocidadAnimacion) {
-  let indice = floor(frameCount / velocidadAnimacion) % frames.length;
-  return frames[indice];
-}
-*/
